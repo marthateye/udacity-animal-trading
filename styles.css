@@ -1,0 +1,30 @@
+#fact {
+		font-style: italic;
+}
+
+ul{
+	list-style: none;
+}
+
+span{
+	font-weight: bold;	
+}
+
+h3{
+	border: ridge;
+	padding: 0.5cm
+}
+
+img{
+	width: 300px;
+	border: ridge;
+	padding:0.5cm;
+}
+
+div{
+	border: ridge;
+}
+
+body{
+	border: groove;
+}
