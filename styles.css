@@ -1,30 +1,28 @@
 #fact {
-		font-style: italic;
+	font-style: italic;
 }
 
-ul{
+.facts {
 	list-style: none;
 }
 
-span{
+.facts_span {
 	font-weight: bold;	
 }
 
-h3{
-	border: ridge;
+.animal_name {
 	padding: 0.5cm
 }
 
-img{
+.p_image {
 	width: 300px;
-	border: ridge;
-	padding:0.5cm;
+	padding: 0.5cm;
 }
 
-div{
+div {
 	border: ridge;
 }
 
-body{
-	border: groove;
+body {
+	width: 350px;
 }
